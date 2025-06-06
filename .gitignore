@@ -1,0 +1,12 @@
+# Arquivos de sistema
+.DS_Store
+*.class
+
+# Pasta de build (caso use futuramente)
+bin/
+out/
+.idea
+
+# Dados sensíveis
+data/*.txt
+data/*.hash
